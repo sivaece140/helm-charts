@@ -102,3 +102,79 @@ helm repo index ../helm-charts/ --url=https://sivaece140.github.io/helm-charts
 helm repo index helm-charts/ --url=https://sivaece140.github.io/helm-charts
 git init
 git checkout -b gh-pages
+git remote add origin https://github.com/sivaece140/helm-charts.git
+git branch
+git add . && git commit -m "new"
+git config --global user.email "sivaec140@gmail.com"
+git config --global user.name "sivaece140"
+git branch
+git add . && git commit -m "new" .
+git branch
+helm repo index helm-charts/ --url=https://sivaece140.github.io/helm-charts
+ls -lrt
+cd helm-charts/
+ls -lrt
+helm repo index helm-charts/ --url=https://sivaece140-in.github.io/helm-charts
+ls- lrt
+ls -lrt
+helm repo index helm-charts/ --url=https://sivaece140-in.github.io/helm-charts
+rm index.yaml 
+helm repo index helm-charts/ --url=https://sivaece140-in.github.io/helm-charts
+ls- lrt
+ls -lrt
+helm repo index helm-charts/ --url=https://sivaece140-in.github.io/helm-charts
+ls -lrt
+cd ..
+helm repo index helm-charts/ --url=https://sivaece140-in.github.io/helm-charts
+helm repo index helm-charts/ --url=https://sivaece140.github.io/helm-charts
+cd helm-charts/
+ls -lrt
+more index.yaml 
+cd ../
+helm repo index helm-charts/ --url=https://sivaece140-in.github.io/helm-charts
+cd helm-charts/
+more index.yaml 
+cd ..
+helm repo index helm-charts/ --url=https://sivaece140.github.io/helm-charts
+git remote add origin https://github.com/sivaece140/helm-charts.git
+git branch
+git push origin gh-pages
+cd helm-charts/
+helm repo add myinginx --url=https://sivaece140-in.github.io/helm-charts/
+helm repo add myinginx https://sivaece140-in.github.io/helm-charts/
+helm repo add my-nginx https://sivaece140-in.github.io/helm-charts/
+ls -lrt
+helm repo add my-nginx https://sivaece140-in.github.io/helm-charts/
+helm repo add my-nginx https://sivaece140-in.github.io/helm-charts/helm-charts/
+git branch
+helm repo add myinginx https://sivaece140.github.io/helm-charts/
+helm repo add myinginx https://sivaece140.github.io/helm-charts/helm-charts/
+helm repo add myinginx https://sivaece140.github.io/helm-charts/
+helm list
+ls
+cd helm-charts/
+helm list
+ls -lrt
+helm repo add my-inginx https://sivaece140.github.io/helm-charts/
+helm repo add my-inginx https://sivaece140.github.io/helm-charts/helm-charts/
+helm repo add my-nginx https://sivaece140.github.io/helm-charts/helm-charts/
+git config
+git branch
+helm repo add my-nginx https://sivaece140.github.io/helm-charts/helm-charts/
+helm repo add helm-charts/my-nginx https://sivaece140.github.io/helm-charts/helm-charts/
+git remote add origin https://github.com/sivaece140/helm-charts.git
+cd helm-charts/
+helm repo index helm-charts/ --url https://<user id>.github.io/helm-charts/
+helm repo index helm-charts --url https://<user id>.github.io/helm-charts/
+ls -lrt
+cd ../
+helm repo index helm-charts --url https://<user id>.github.io/helm-charts/
+cd helm-charts/
+helm repo index helm-charts --url https://sivaece140.github.io/helm-charts/
+cd ..
+helm repo index helm-charts --url https://sivaece140.github.io/helm-charts/
+cd helm-charts
+git add .
+git commit -m "first chart" .
+git push origin gh-pages
+helm repo add helm-charts/my-nginx https://sivaece140.github.io/helm-charts/
