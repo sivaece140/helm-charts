@@ -1,0 +1,19 @@
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: db-network-policy
+  namespace: mtvlabeksu20
+spec:
+  podSelector:
+    matchLabels:
+      app: authdb 
+  policyTypes:
+  - Ingress
+  ingress:
+  - from:
+    - namespaceSelector:
+        matchLabels:
+          kubernetes.io/metadata.name: mtvlabeksu20
+    ports:
+    - protocol: TCP
+      port: 3306
